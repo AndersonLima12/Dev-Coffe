@@ -35,7 +35,7 @@ Projeto desenolvido para meios de aprendizado.</em></strong> ❗️ 📚 👨�
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 
 
-## - Imagens do projeto...😁
+## - Imagem do projeto...😁
 
 <h1 align="center">
   <img align="center" width="320em" height="600em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/Dev-Coffe/blob/main/img/desktop.png" />
