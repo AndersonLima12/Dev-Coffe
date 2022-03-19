@@ -38,7 +38,7 @@ Projeto desenolvido para meios de aprendizado.</em></strong> ❗️ 📚 👨�
 ## - Imagem do projeto...😁
 
 <h1 align="center">
-  <img align="center" width="320em" height="600em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/Dev-Coffe/blob/main/img/desktop.png" />
+  <img align="center" width="320em" height="700em" alt="Desktop Result" title="#Desktop" src="https://github.com/AndersonLima12/Dev-Coffe/blob/main/img/desktop.png" />
 </h1>
 
 ### Para você que ainda não sabe ? 👨🏻‍💻
