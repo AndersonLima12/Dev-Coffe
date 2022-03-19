@@ -1,0 +1,80 @@
+@media (max-width:1400px) {
+    #gmap_canvas {
+        width: 147%;
+    }
+}
+
+@media (max-width:991px) {
+    html {
+        font-size: 75%;
+    }
+    .header {
+        padding: 1.5rem 2rem;
+    }
+    section {
+        padding: 2rem;
+    }
+    #gmap_canvas {
+        width: 100%;
+    }
+}
+
+@media (max-width:768px) {
+    #menu-btn {
+        display: inline-block;
+    }
+    #gmap_canvas {
+        width: 100%;
+    }
+    .header .navbar {
+        position: absolute;
+        top: 100%;
+        right: 100%;
+        background: #fff;
+        width: 30rem;
+        height: calc(60vh - 9.5rem);
+        text-align: center;
+    }
+    .header .navbar.active {
+        right: 0;
+    }
+    .home {
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        background: url(../img/6-copia.jpg) no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+    .header .navbar a {
+        color: var(--black);
+        display: block;
+        margin: 1.5rem;
+        padding: .5rem;
+        font-size: 2rem;
+    }
+    .header .search-form {
+        width: 90%;
+        right: 2rem;
+    }
+    .home {
+        background-position: left;
+        justify-content: center;
+        text-align: center;
+    }
+    .home .content h3 {
+        font-size: 4.5rem;
+    }
+    .home .content p {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width:450px) {
+    html {
+        font-size: 50%;
+    }
+    #gmap_canvas {
+        width: 100%;
+    }
+}
